@@ -1,6 +1,6 @@
 ![Header](https://github.com/InnaMaslovska/InnaMaslovska/blob/main/assets/Inna%20maslovska.png)
 
-About me
+## I am a beginner QA Engeneer and looking forward for my first job
 
 Tools
 
