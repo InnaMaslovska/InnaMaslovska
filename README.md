@@ -17,8 +17,8 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 
 ### Testing Documantation
-- [Checklists]()
-- [Bug-Reports]()
+- [Checklists](https://github.com/InnaMaslovska/Checklists)
+- [Bug-Reports](https://github.com/InnaMaslovska/Bug-Reports)
 - [SQL Queries]()
 - [Postman Collections]()
 
