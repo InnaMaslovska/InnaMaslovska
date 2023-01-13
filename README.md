@@ -19,8 +19,10 @@
 ### Testing Documantation
 - [Checklists](https://github.com/InnaMaslovska/Checklists)
 - [Bug-Reports](https://github.com/InnaMaslovska/Bug-Reports)
-- [SQL Queries]()
-- [Postman Collections]()
+- [SQL Queries](https://github.com/InnaMaslovska/SQL-Queries)
+- [Postman Collections](https://github.com/InnaMaslovska/Postman-Collections)
+- [JavaScript Code](https://github.com/InnaMaslovska/JavaScript-Code)
+
 
 ### Follow me
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/inna-maslovska/)
