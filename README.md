@@ -1,6 +1,6 @@
 ![Header](https://github.com/InnaMaslovska/InnaMaslovska/blob/main/InnaMAslovska.png)
 
-## I am a beginner QA Engeneer and looking forward for my first job
+## I am a beginner QA Engineer and looking forward for my first job
 
 ## My CV
 [Link to my CV](https://chestnut-atmosphere-018.notion.site/Inna-Maslovska-1277586062c742c68959fb29fcac3cbb)
@@ -16,7 +16,7 @@
 ![Header](https://img.shields.io/badge/DBeaver-090909?style=for-the-badge&logo=DBeaver)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 
-### Testing Documantation
+### Testing Documentation 
 - [Checklists](https://github.com/InnaMaslovska/Checklists)
 - [Bug-Reports](https://github.com/InnaMaslovska/Bug-Reports)
 - [SQL Queries](https://github.com/InnaMaslovska/SQL-Queries)
